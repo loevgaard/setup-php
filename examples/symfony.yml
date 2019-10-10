@@ -1,4 +1,5 @@
-name: Unit Testing Symfony
+# GitHub Action for Symfony
+name: Testing Symfony
 on: [push, pull_request]
 jobs:
   laravel:

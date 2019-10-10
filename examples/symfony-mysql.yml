@@ -1,3 +1,4 @@
+# GitHub Action for Symfony with MySQL
 name: Testing Symfony with MySQL
 on: [push, pull_request]
 jobs:

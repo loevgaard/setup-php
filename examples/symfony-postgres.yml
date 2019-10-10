@@ -1,3 +1,4 @@
+# GitHub Action for Symfony with PostgreSQL
 name: Testing Symfony with PostgreSQL
 on: [push, pull_request]
 jobs:
